@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log
+.DS_Store
+
+# 日志
+logs
+*.log
+
+# 操作系统临时文件
+Thumbs.db
+.idea/
+.vscode/
+
+# 可选构建输出
+dist/
+build/
